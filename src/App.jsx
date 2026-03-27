@@ -4,6 +4,8 @@ import Players from './components/Players/Players'
 import { Suspense, useState } from 'react'
 import { ToastContainer } from 'react-toastify'
 import './App.css'
+import Footer from './components/Footer/Footer'
+
 
 const loadPlayersData = async () => {
   const res = await fetch("/data/data.json");
@@ -21,6 +23,8 @@ function App() {
       <Suspense fallback={<p>....Loading</p>}>
         <Players playersPromise={playersPromise} coin={coin} setCoin={setCoin}></Players>
       </Suspense>
+
+      <Footer></Footer>
       
 
       <ToastContainer />
