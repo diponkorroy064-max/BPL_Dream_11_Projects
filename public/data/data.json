@@ -1,0 +1,502 @@
+[
+    {
+        "playerName": "Joe Root",
+        "playerCountry": "England",
+        "playerType": "Batter",
+        "rating": 880,
+        "battingStyle": "Right-hand bat",
+        "bowlingStyle": "Right-arm offbreak",
+        "price": "₹9.20 crore",
+        "playerImage": "https://i.ibb.co.com/QjxvMjfz/Joe-Root-HIP1487-cropped.jpg"
+    },
+    {
+        "playerName": "Virat Kohli",
+        "playerCountry": "India",
+        "playerType": "Batter",
+        "rating": 785,
+        "battingStyle": "Right-hand bat",
+        "bowlingStyle": "Right-arm medium",
+        "price": "₹2100.00 crore",
+        "playerImage": "https://i.ibb.co.com/chRvDd2n/Virat-Kohli-in-PMO-New-Delhi.jpg"
+    },
+    {
+        "playerName": "Jasprit Bumrah",
+        "playerCountry": "India",
+        "playerType": "Bowler",
+        "rating": 879,
+        "battingStyle": "Right-hand bat",
+        "bowlingStyle": "Right-arm fast",
+        "price": "₹18.00 crore",
+        "playerImage": "https://i.ibb.co.com/rKmJKdyH/Jasprit-Bumrah-in-PMO-New-Delhi.jpg"
+    },
+    {
+        "playerName": "Abhishek Sharma",
+        "playerCountry": "India",
+        "playerType": "Batter",
+        "rating": 875,
+        "battingStyle": "Left-hand bat",
+        "bowlingStyle": "Left-arm orthodox",
+        "price": "₹70.20 crore",
+        "playerImage": "https://img1.hscicdn.com"
+    },
+    {
+        "playerName": "Cameron Green",
+        "playerCountry": "Australia",
+        "playerType": "All-rounder",
+        "rating": 594,
+        "battingStyle": "Right-hand bat",
+        "bowlingStyle": "Right-arm fast-medium",
+        "price": "₹25.20 crore",
+        "playerImage": "https://img1.hscicdn.com"
+    },
+    {
+        "playerName": "Daryl Mitchell",
+        "playerCountry": "New Zealand",
+        "playerType": "Batter",
+        "rating": 840,
+        "battingStyle": "Right-hand bat",
+        "bowlingStyle": "Right-arm medium",
+        "price": "₹7.20 crore",
+        "playerImage": "https://img1.hscicdn.com"
+    },
+    {
+        "playerName": "Harry Brook",
+        "playerCountry": "England",
+        "playerType": "Batter",
+        "rating": 857,
+        "battingStyle": "Right-hand bat",
+        "bowlingStyle": "Right-arm medium",
+        "price": "₹7.20 crore",
+        "playerImage": "https://img1.hscicdn.com"
+    },
+    {
+        "playerName": "Travis Head",
+        "playerCountry": "Australia",
+        "playerType": "Batter",
+        "rating": 853,
+        "battingStyle": "Left-hand bat",
+        "bowlingStyle": "Right-arm offbreak",
+        "price": "₹7.20 crore",
+        "playerImage": "https://img1.hscicdn.com"
+    },
+    {
+        "playerName": "Babar Azam",
+        "playerCountry": "Pakistan",
+        "playerType": "Batter",
+        "rating": 722,
+        "battingStyle": "Right-hand bat",
+        "bowlingStyle": "Right-arm offbreak",
+        "price": "₹7.20 crore",
+        "playerImage": "https://img1.hscicdn.com"
+    },
+    {
+        "playerName": "Azmatullah Omarzai",
+        "playerCountry": "Afghanistan",
+        "playerType": "All-rounder",
+        "rating": 334,
+        "battingStyle": "Right-hand bat",
+        "bowlingStyle": "Right-arm medium-fast",
+        "price": "₹7.20 crore",
+        "playerImage": "https://img1.hscicdn.com"
+    },
+    {
+        "playerName": "Ravindra Jadeja",
+        "playerCountry": "India",
+        "playerType": "All-rounder",
+        "rating": 455,
+        "battingStyle": "Left-hand bat",
+        "bowlingStyle": "Left-arm orthodox",
+        "price": "₹18.00 crore",
+        "playerImage": "https://img1.hscicdn.com"
+    },
+    {
+        "playerName": "Rashid Khan",
+        "playerCountry": "Afghanistan",
+        "playerType": "Bowler",
+        "rating": 753,
+        "battingStyle": "Right-hand bat",
+        "bowlingStyle": "Right-arm legbreak",
+        "price": "₹18.00 crore",
+        "playerImage": "https://img1.hscicdn.com"
+    },
+    {
+        "playerName": "Sahibzada Farhan",
+        "playerCountry": "Pakistan",
+        "playerType": "Batter",
+        "rating": 848,
+        "battingStyle": "Right-hand bat",
+        "bowlingStyle": "None",
+        "price": "₹71.20 crore",
+        "playerImage": "https://img1.hscicdn.com"
+    },
+    {
+        "playerName": "Phil Salt",
+        "playerCountry": "England",
+        "playerType": "Batter",
+        "rating": 792,
+        "battingStyle": "Right-hand bat",
+        "bowlingStyle": "Right-arm offbreak",
+        "price": "₹4.20 crore",
+        "playerImage": "https://img1.hscicdn.com"
+    },
+    {
+        "playerName": "Sikandar Raza",
+        "playerCountry": "Zimbabwe",
+        "playerType": "All-rounder",
+        "rating": 328,
+        "battingStyle": "Right-hand bat",
+        "bowlingStyle": "Right-arm offbreak",
+        "price": "₹7.20 crore",
+        "playerImage": "https://img1.hscicdn.com"
+    },
+    {
+        "playerName": "Hardik Pandya",
+        "playerCountry": "India",
+        "playerType": "All-rounder",
+        "rating": 299,
+        "battingStyle": "Right-hand bat",
+        "bowlingStyle": "Right-arm fast-medium",
+        "price": "₹7.20 crore",
+        "playerImage": "https://img1.hscicdn.com"
+    },
+    {
+        "playerName": "Kane Williamson",
+        "playerCountry": "New Zealand",
+        "playerType": "Batter",
+        "rating": 822,
+        "battingStyle": "Right-hand bat",
+        "bowlingStyle": "Right-arm offbreak",
+        "price": "₹7.20 crore",
+        "playerImage": "https://img1.hscicdn.com"
+    },
+    {
+        "playerName": "Shubman Gill",
+        "playerCountry": "India",
+        "playerType": "Batter",
+        "rating": 730,
+        "battingStyle": "Right-hand bat",
+        "bowlingStyle": "Right-arm offbreak",
+        "price": "₹16.50 crore",
+        "playerImage": "https://img1.hscicdn.com"
+    },
+    {
+        "playerName": "Ishan Kishan",
+        "playerCountry": "India",
+        "playerType": "Batter",
+        "rating": 871,
+        "battingStyle": "Left-hand bat",
+        "bowlingStyle": "None",
+        "price": "₹7.20 crore",
+        "playerImage": "https://img1.hscicdn.com"
+    },
+    {
+        "playerName": "Pathum Nissanka",
+        "playerCountry": "Sri Lanka",
+        "playerType": "Batter",
+        "rating": 766,
+        "battingStyle": "Right-hand bat",
+        "bowlingStyle": "None",
+        "price": "₹4.00 crore",
+        "playerImage": "https://img1.hscicdn.com"
+    },
+    {
+        "playerName": "Matheesha Pathirana",
+        "playerCountry": "Sri Lanka",
+        "playerType": "Bowler",
+        "rating": 680,
+        "battingStyle": "Right-hand bat",
+        "bowlingStyle": "Right-arm fast",
+        "price": "₹18.00 crore",
+        "playerImage": "https://img1.hscicdn.com"
+    },
+    {
+        "playerName": "Rishabh Pant",
+        "playerCountry": "India",
+        "playerType": "Batter",
+        "rating": 704,
+        "battingStyle": "Left-hand bat",
+        "bowlingStyle": "None",
+        "price": "₹27.00 crore",
+        "playerImage": "https://img1.hscicdn.com"
+    },
+    {
+        "playerName": "Suryakumar Yadav",
+        "playerCountry": "India",
+        "playerType": "Batter",
+        "rating": 722,
+        "battingStyle": "Right-hand bat",
+        "bowlingStyle": "Right-arm medium",
+        "price": "₹7.20 crore",
+        "playerImage": "https://img1.hscicdn.com"
+    },
+    {
+        "playerName": "Marco Jansen",
+        "playerCountry": "South Africa",
+        "playerType": "All-rounder",
+        "rating": 344,
+        "battingStyle": "Right-hand bat",
+        "bowlingStyle": "Left-arm fast",
+        "price": "₹7.20 crore",
+        "playerImage": "https://img1.hscicdn.com"
+    },
+    {
+        "playerName": "Mehidy Hasan Miraz",
+        "playerCountry": "Bangladesh",
+        "playerType": "All-rounder",
+        "rating": 299,
+        "battingStyle": "Right-hand bat",
+        "bowlingStyle": "Right-arm offbreak",
+        "price": "₹7.20 crore",
+        "playerImage": "https://img1.hscicdn.com"
+    },
+    {
+        "playerName": "Quinton de Kock",
+        "playerCountry": "South Africa",
+        "playerType": "Batter",
+        "rating": 646,
+        "battingStyle": "Left-hand bat",
+        "bowlingStyle": "None",
+        "price": "₹1.00 crore",
+        "playerImage": "https://img1.hscicdn.com"
+    },
+    {
+        "playerName": "Mitchell Santner",
+        "playerCountry": "New Zealand",
+        "playerType": "All-rounder",
+        "rating": 250,
+        "battingStyle": "Left-hand bat",
+        "bowlingStyle": "Left-arm orthodox",
+        "price": "₹33.20 crore",
+        "playerImage": "https://img1.hscicdn.com"
+    },
+    {
+        "playerName": "David Miller",
+        "playerCountry": "South Africa",
+        "playerType": "Batter",
+        "rating": 535,
+        "battingStyle": "Left-hand bat",
+        "bowlingStyle": "Right-arm offbreak",
+        "price": "₹2.00 crore",
+        "playerImage": "https://img1.hscicdn.com"
+    },
+    {
+        "playerName": "Saim Ayub",
+        "playerCountry": "Pakistan",
+        "playerType": "All-rounder",
+        "rating": 275,
+        "battingStyle": "Left-hand bat",
+        "bowlingStyle": "Right-arm offbreak",
+        "price": "₹17.20 crore",
+        "playerImage": "https://img1.hscicdn.com"
+    },
+    {
+        "playerName": "Jos Buttler",
+        "playerCountry": "England",
+        "playerType": "Batter",
+        "rating": 716,
+        "battingStyle": "Right-hand bat",
+        "bowlingStyle": "None",
+        "price": "₹15.75 crore",
+        "playerImage": "https://img1.hscicdn.com"
+    },
+    {
+        "playerName": "Shaheen Afridi",
+        "playerCountry": "Pakistan",
+        "playerType": "Bowler",
+        "rating": 780,
+        "battingStyle": "Left-hand bat",
+        "bowlingStyle": "Left-arm fast",
+        "price": "₹7.20 crore",
+        "playerImage": "https://img1.hscicdn.com"
+    },
+    {
+        "playerName": "Rachin Ravindra",
+        "playerCountry": "New Zealand",
+        "playerType": "All-rounder",
+        "rating": 639,
+        "battingStyle": "Left-hand bat",
+        "bowlingStyle": "Left-arm orthodox",
+        "price": "₹2.00 crore",
+        "playerImage": "https://img1.hscicdn.com"
+    },
+    {
+        "playerName": "Mustafizur Rahman",
+        "playerCountry": "Bangladesh",
+        "playerType": "Bowler",
+        "rating": 695,
+        "battingStyle": "Left-hand bat",
+        "bowlingStyle": "Left-arm fast-medium",
+        "price": "₹9.20 crore",
+        "playerImage": "https://img1.hscicdn.com"
+    },
+    {
+        "playerName": "Ben Stokes",
+        "playerCountry": "England",
+        "playerType": "All-rounder",
+        "rating": 299,
+        "battingStyle": "Left-hand bat",
+        "bowlingStyle": "Right-arm fast-medium",
+        "price": "₹7.20 crore",
+        "playerImage": "https://img1.hscicdn.com"
+    },
+    {
+        "playerName": "Shreyas Iyer",
+        "playerCountry": "India",
+        "playerType": "Batter",
+        "rating": 682,
+        "battingStyle": "Right-hand bat",
+        "bowlingStyle": "Right-arm legbreak",
+        "price": "₹6.75 crore",
+        "playerImage": "https://img1.hscicdn.com"
+    },
+    {
+        "playerName": "Tilak Varma",
+        "playerCountry": "India",
+        "playerType": "Batter",
+        "rating": 742,
+        "battingStyle": "Left-hand bat",
+        "bowlingStyle": "Right-arm offbreak",
+        "price": "₹7.20 crore",
+        "playerImage": "https://img1.hscicdn.com"
+    },
+    {
+        "playerName": "Liam Livingstone",
+        "playerCountry": "England",
+        "playerType": "All-rounder",
+        "rating": 171,
+        "battingStyle": "Right-hand bat",
+        "bowlingStyle": "Right-arm legbreak/offbreak",
+        "price": "₹13.00 crore",
+        "playerImage": "https://img1.hscicdn.com"
+    },
+    {
+        "playerName": "Pat Cummins",
+        "playerCountry": "Australia",
+        "playerType": "Bowler",
+        "rating": 250,
+        "battingStyle": "Right-hand bat",
+        "bowlingStyle": "Right-arm fast",
+        "price": "₹18.00 crore",
+        "playerImage": "https://img1.hscicdn.com"
+    },
+    {
+        "playerName": "Josh Inglis",
+        "playerCountry": "Australia",
+        "playerType": "Batter",
+        "rating": 463,
+        "battingStyle": "Right-hand bat",
+        "bowlingStyle": "None",
+        "price": "₹8.60 crore",
+        "playerImage": "https://img1.hscicdn.com"
+    },
+    {
+        "playerName": "Ravi Bishnoi",
+        "playerCountry": "India",
+        "playerType": "Bowler",
+        "rating": 665,
+        "battingStyle": "Right-hand bat",
+        "bowlingStyle": "Right-arm legbreak",
+        "price": "₹7.20 crore",
+        "playerImage": "https://img1.hscicdn.com"
+    },
+    {
+        "playerName": "Venkatesh Iyer",
+        "playerCountry": "India",
+        "playerType": "All-rounder",
+        "rating": 420,
+        "battingStyle": "Left-hand bat",
+        "bowlingStyle": "Right-arm medium",
+        "price": "₹7.00 crore",
+        "playerImage": "https://img1.hscicdn.com"
+    },
+    {
+        "playerName": "Rahul Chahar",
+        "playerCountry": "India",
+        "playerType": "Bowler",
+        "rating": 540,
+        "battingStyle": "Right-hand bat",
+        "bowlingStyle": "Right-arm legbreak",
+        "price": "₹5.20 crore",
+        "playerImage": "https://img1.hscicdn.com"
+    },
+    {
+        "playerName": "Mitchell Starc",
+        "playerCountry": "Australia",
+        "playerType": "Bowler",
+        "rating": 284,
+        "battingStyle": "Left-hand bat",
+        "bowlingStyle": "Left-arm fast",
+        "price": "₹57.20 crore",
+        "playerImage": "https://img1.hscicdn.com"
+    },
+    {
+        "playerName": "Gus Atkinson",
+        "playerCountry": "England",
+        "playerType": "Bowler",
+        "rating": 234,
+        "battingStyle": "Right-hand bat",
+        "bowlingStyle": "Right-arm fast",
+        "price": "₹37.20 crore",
+        "playerImage": "https://img1.hscicdn.com"
+    },
+    {
+        "playerName": "Wiaan Mulder",
+        "playerCountry": "South Africa",
+        "playerType": "All-rounder",
+        "rating": 245,
+        "battingStyle": "Right-hand bat",
+        "bowlingStyle": "Right-arm medium-fast",
+        "price": "₹79.20 crore",
+        "playerImage": "https://img1.hscicdn.com"
+    },
+    {
+        "playerName": "Kartik Sharma",
+        "playerCountry": "India",
+        "playerType": "Batter",
+        "rating": 150,
+        "battingStyle": "Left-hand bat",
+        "bowlingStyle": "None",
+        "price": "₹14.20 crore",
+        "playerImage": "https://img1.hscicdn.com"
+    },
+    {
+        "playerName": "Prashant Veer",
+        "playerCountry": "India",
+        "playerType": "All-rounder",
+        "rating": 140,
+        "battingStyle": "Right-hand bat",
+        "bowlingStyle": "Right-arm offbreak",
+        "price": "₹14.20 crore",
+        "playerImage": "https://img1.hscicdn.com"
+    },
+    {
+        "playerName": "Auqib Nabi Dar",
+        "playerCountry": "India",
+        "playerType": "Bowler",
+        "rating": 120,
+        "battingStyle": "Right-hand bat",
+        "bowlingStyle": "Right-arm medium",
+        "price": "₹8.40 crore",
+        "playerImage": "https://img1.hscicdn.com"
+    },
+    {
+        "playerName": "Jacob Bethell",
+        "playerCountry": "England",
+        "playerType": "All-rounder",
+        "rating": 668,
+        "battingStyle": "Left-hand bat",
+        "bowlingStyle": "Left-arm orthodox",
+        "price": "₹7.20 crore",
+        "playerImage": "https://img1.hscicdn.com"
+    },
+    {
+        "playerName": "Finn Allen",
+        "playerCountry": "New Zealand",
+        "playerType": "Batter",
+        "rating": 620,
+        "battingStyle": "Right-hand bat",
+        "bowlingStyle": "Right-arm offbreak",
+        "price": "₹2.00 crore",
+        "playerImage": "https://img1.hscicdn.com"
+    }
+]
