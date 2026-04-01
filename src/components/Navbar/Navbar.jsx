@@ -4,9 +4,9 @@ import logoImg from '../../assets/logo.png';
 
 const Navbar = ({coin}) => {
     return (
-        <div className="flex justify-between items-center bg-base-200 shadow max-w-300 m-auto mb-5 px-10 rounded-md sticky top-0">
-            <div className="py-2">
-                <img src={logoImg} alt="" />
+        <div className="flex justify-between items-center bg-base-200 shadow max-w-300 m-auto mb-5 px-10 py-2 rounded-sm sticky top-0 z-50">
+            <div className="">
+                <img className='w-15' src={logoImg} alt="" />
             </div>
             <div className="">
                 <ul className="flex justify-center items-center gap-4 font-bold">
